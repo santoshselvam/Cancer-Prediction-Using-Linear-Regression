@@ -1,0 +1,1 @@
+The objective of this project was to predict future cancer death trends using historical healthcare data. By applying the Linear Regression algorithm, I developed a predictive model capable of estimating future values based on patterns observed in the dataset.
